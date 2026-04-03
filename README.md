@@ -1,1 +1,1 @@
-# kr
+👉 Посмотреть ноутбук: [notebook.ipynb](demoAKR.ipynb)
